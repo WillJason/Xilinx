@@ -1,0 +1,5 @@
+the_ROM_image:
+{
+	[bootloader]F:\FPGA2016\DEMO\starfire.sdk\fsbl\Debug\fsbl.elf
+	F:\FPGA2016\DEMO\starfire.sdk\u-boot.elf
+}
